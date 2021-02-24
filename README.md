@@ -7,9 +7,7 @@ Cada Arquivo traduzido deve conter sua Assinatura no final do arquivo.
 
 **Modelo**: ### [nome] - (data) - (comentário) ###
 
-[] = Obrigatório
-
-() = Opcional
+[] = Obrigatório () = Opcional
 
 Qualquer um pode utilizar estes arquivos, porém se for compartilhá-lo de forma pública é necessário dar os créditos para os contribuintes e organizadores do mod!
 
